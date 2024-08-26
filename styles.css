@@ -1,0 +1,57 @@
+body {
+  color: #120f2a;
+  background-image: url('https://s21.ax1x.com/2024/08/26/pAkk5LD.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-color: #ffffff;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  background-color: #ffffff;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #bfdff5;
+}
+nav a {
+  color: #000000;
+  padding: 4px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+nav a:hover {
+  background-color: #517ada;
+  color: #ffffff;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
+p {
+  text-indent: 20px;
+}
+div.img {
+  border: 1px solid #ccc;
+}
+div.desc {
+  padding: 20px;
+  text-align: center;
+}
+.responsive {
+  padding: 4 6px;
+  float: left;
+  width: 33.3%;
+}
+iframe {
+  width: 100%;
+}
